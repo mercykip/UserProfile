@@ -36,3 +36,78 @@
     transform: rotate(360deg);
   }
 }
+#update {
+  position: absolute;
+  width: 70%;
+  height: 50%;
+  /* z-index: 15; */
+  top: 5%;
+  left: 5%;
+  /* margin: -100px 0 0 -150px; */
+
+}
+
+#btn{
+  margin-left: 25%;
+}
+
+.profile{
+  text-align: center;
+ 
+}
+.profile-item{
+  /* text-align: center; */
+  padding-top: 0.5%;  
+ 
+  width: 70%;
+  text-align: center;
+}
+/* .profile-p{
+  width: 50%;
+  text-align: center;
+  
+} */
+#tab {
+ margin-left: 40%;
+}
+#header{
+  background-color: rgb(2, 175, 161);
+}
+#body{
+  background-color: rgb(4, 4, 7);
+}
+#label{
+  color: rgb(2, 175, 161);
+}
+
+.paginationBttns {
+  width: 80%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid #2b2eff;
+  color: #2b2eff;
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  color: white;
+  background-color: #2b2eff;
+}
+
+.paginationActive a {
+  color: white;
+  background-color: #2b2eff;
+}
+
+.paginationDisabled a {
+  color: white;
+  background-color: grey;
+}
