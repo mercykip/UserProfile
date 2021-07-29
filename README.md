@@ -1,4 +1,6 @@
 # Interview project UserProfile APP
+### documentation
+https://mercyjemosop.medium.com/react-redux-walk-through-21333a514b01
 ## Reactjs + Redux + Reducx Thunk + axios
 ## pagination + filtering list of data
 ## This is a react project created to consume an API
